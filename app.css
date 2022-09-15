@@ -120,6 +120,10 @@ p{
     font-size: 0.8em;
 }
 
+button:hover{
+    background-color: hsl(157, 37%, 14%);;
+}
+
 @media (min-width : 375px) {
     .card {
         flex-direction: row;
